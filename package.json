@@ -78,7 +78,7 @@
         "thread-loader": "1.1.5",
         "uglifyjs-webpack-plugin": "1.2.7",
         "url-loader": "1.0.1",
-        "webpack": "4.14.0",
+        "webpack": "4.29.1",
         "webpack-dev-server": "3.1.4",
         "webpack-manifest-plugin": "2.0.3",
         "whatwg-fetch": "2.0.4"
